@@ -1,0 +1,19 @@
+{
+  "name": "CLEVIA - Gestão de Manutenção",
+  "short_name": "CLEVIA",
+  "description": "Gestão de manutenção industrial: ordens de serviço, preventivas, conformidade e indicadores.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "categories": ["business", "productivity", "industrial"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
